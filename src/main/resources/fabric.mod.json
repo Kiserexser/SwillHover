@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "swillhover",
+  "version": "1.0",
+  "name": "Swill Hover",
+  "description": "Toggle AirHover",
+  "authors": ["Swill"],
+  "entrypoints": {
+    "client": ["com.swill.client.SwillClientClient"]
+  }
+}
